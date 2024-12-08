@@ -2,6 +2,10 @@
 
 Skrip otomasi pemancingan untuk permainan **Coral Island** yang memungkinkan Anda melakukan pemancingan secara otomatis.
 
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/VnfF0kdlxws/maxresdefault.jpg)](https://www.youtube.com/embed/VnfF0kdlxws?si=juma4heQRZQj2xkB)
+
 ## Fitur
 
 - Deteksi otomatis bar pancing menggunakan template gambar.
